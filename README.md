@@ -36,9 +36,9 @@ To run the application locally, follow these steps:
 
 ## Application flow
 
-Detailed application flow can be found here : 
+Detailed application flow can be found here in wiki page : 
 
-https://drive.google.com
+[https://drive.google.com](https://github.com/kishorsamadder/RestaurantFinder/wiki/Restaurant-Finder-steps-wiki)https://github.com/kishorsamadder/RestaurantFinder/wiki/Restaurant-Finder-steps-wiki
 
 Feel free to enhance the application as per your requirement.
 
